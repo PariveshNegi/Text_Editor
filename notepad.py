@@ -112,7 +112,7 @@ def change_theme():
         update_status(f"Theme Changed: {theme_color}")
 
 parent = tk.Tk()
-parent.title("SwiftText")
+parent.title("Text-editor")
 parent.geometry("600x400")
 parent.config(bg="LightBlue1")
 
