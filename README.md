@@ -1,3 +1,9 @@
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Text+Editor!&center=true&size=30">
+  </a>
+</h1>
+
 # Overview
 - This project is a GUI-based text editor built using Python's Tkinter library. The application allows users to create, edit, and save text files, as well as customize the appearance of the text and background. With built-in features like find-and-replace, font changes, and color selection, it provides a functional and customizable text editing experience.
 
